@@ -4,12 +4,12 @@ title: /about
 permalink: /about/
 ---
 
-# jekyll-theme-console
+# about me
 
-A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
-You can find the source code for this theme at [github.com/b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console).
+My name is Noah Durbin and I am a software engineer in Boulder Colorado
+Outside of my work I enjoy spending time outside rock climbing or on a bike
+with my wife Raen.
 
-## What is jekyll?
-
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under an open source license.
-<br />Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Jekyll is the engine behind GitHub Pages, a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.
+Prior to my entry into the world of software engineering I was a barista ans still
+very much enjoy specialty coffee. I also have spent time working on a boat, and have
+a degree in Intercultural studies and entrepreneurship.

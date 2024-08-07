@@ -1,17 +1,16 @@
-title: 'Noah Durbin'
+title: "Noah Durbin"
 description: "Noah Durbin's site"
 baseurl: ""
 url: "https://noahdurbin.github.io"
 
 header_pages:
   - index.md
-  - peter.md
   - about.md
   - contact.md
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/durbinnoah">twitter</a>'
+footer: 'follow me on <a href="https://twitter.com/durbinnoah">twitter</a>'
 
 # Build settings
 markdown: kramdown

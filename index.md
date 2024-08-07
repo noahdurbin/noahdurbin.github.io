@@ -4,11 +4,8 @@ layout: home
 permalink: /
 ---
 
-# Other Demo Pages
+# Hello!
 
-[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
-[Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
-
-# Welcome
-
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+My name is Noah Durbin and I am a software engineer in Boulder Colorado.
+I wanted to put this together to share things that I am working on, and or
+find interesting.
